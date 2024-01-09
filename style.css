@@ -1,6 +1,9 @@
 /*===== GOOGLE FONTS =====*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 /*===== VARIABLES CSS =====*/
+
+
+
 :root {
   --header-height: 3rem;
   --font-semi: 600;
@@ -1037,7 +1040,7 @@ article.active {
  * responsive larger than 580px screen
  */
 
-@media (min-width: 580px) {
+@media (min-width: 380px) {
 
   /**
    * CUSTOM PROPERTY
@@ -1061,12 +1064,10 @@ article.active {
 
 
 
-  /**
-   * #REUSED STYLE
-   */
+  
 
   .sidebar, article {
-    width: 520px;
+    width: 420px;
     margin-inline: auto;
     padding: 30px;
   }
@@ -1335,4 +1336,11 @@ article.active {
 
   .timeline-text { max-width: 700px; }
 
+}
+/* Default styles for larger screens */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
