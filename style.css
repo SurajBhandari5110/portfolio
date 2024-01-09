@@ -1067,7 +1067,7 @@ article.active {
   
 
   .sidebar, article {
-    width: 420px;
+    width: 320px;
     margin-inline: auto;
     padding: 30px;
   }
