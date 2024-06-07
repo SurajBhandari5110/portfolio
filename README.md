@@ -1,5 +1,6 @@
-# Hello everyone this is my portfolio webpage...
-
+Hello everyone this is my portfolio webpage...
+I have used HTML,CSS,JS--
+I want to contribute you are welcome here..
 **Going to add some new featues soon**
 
 ***If you like this website please comment and suggest what can i add or update in it***
